@@ -1,0 +1,15 @@
+C:\Users\ШечковаНО\source\repos\Pryffer\bin\Debug\net6.0\Pryffer.exe
+C:\Users\ШечковаНО\source\repos\Pryffer\bin\Debug\net6.0\Pryffer.deps.json
+C:\Users\ШечковаНО\source\repos\Pryffer\bin\Debug\net6.0\Pryffer.runtimeconfig.json
+C:\Users\ШечковаНО\source\repos\Pryffer\bin\Debug\net6.0\Pryffer.dll
+C:\Users\ШечковаНО\source\repos\Pryffer\bin\Debug\net6.0\Pryffer.pdb
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.csproj.AssemblyReference.cache
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.AssemblyInfoInputs.cache
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.AssemblyInfo.cs
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.csproj.CoreCompileInputs.cache
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.dll
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\refint\Pryffer.dll
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.pdb
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\Pryffer.genruntimeconfig.cache
+C:\Users\ШечковаНО\source\repos\Pryffer\obj\Debug\net6.0\ref\Pryffer.dll
